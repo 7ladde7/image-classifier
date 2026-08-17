@@ -15,8 +15,8 @@
 
 ## Установка и команды
 ```bash
-git clone https://github.com/7ladde7/3-ml-image-classifier.git
-cd 3-ml-image-classifier
+git clone https://github.com/7ladde7/image-classifier.git
+cd image-classifier
 ```
 
 Запуск в **Docker**:
